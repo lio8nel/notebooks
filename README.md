@@ -1,7 +1,7 @@
 # Notebooks
 
 Various notebooks on various topics, more to come here:
-* [fourier.ipynb](fourier.ipynb): Few audio / fourier explorations, moslty used to re-learn some basics around generating /modifying signals.
+* [fourier_generator.ipynb](fourier_generator.ipynb): Few audio / fourier explorations, moslty used to re-learn some basics around generating signals.
 
 ## Install
 
